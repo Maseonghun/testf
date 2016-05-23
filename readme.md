@@ -1,5 +1,5 @@
 <html>
 <body>
-index / Git Žg‚¢•û + version
+index / Git Žg‚¢•û
 </body>
 </html>
